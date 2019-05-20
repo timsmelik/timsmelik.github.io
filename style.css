@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+    line-height: 1.4em;
+    max-width: 760px;
+    margin: 20px auto;
+}
+
+div.sourceCode {
+    background-color: #f5f5f5;
+    border-radius: 5px;
+    padding: 10px;
+}
